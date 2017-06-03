@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ensurance</string>
+    <string name="username">UserName</string>
+    <string name="insertName">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="InsertName">insertName</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="RegisterButton">Button</string>
+    <string name="RegisterHere">Name</string>
+    <string name="register_here">Register here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register_here1">Register Here</string>
+    <string name="signUp">Button</string>
+    <string name="signup">Sign Up</string>
+    <string name="etEmail">Name</string>
+    <string name="enter_email">Enter email</string>
+</resources>
